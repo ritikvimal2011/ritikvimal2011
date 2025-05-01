@@ -71,9 +71,6 @@
 
 ---
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=jaiswaladi246&limit=5&theme=flat&combine_all_yearly_contributions=true)
-
 ---
 
 Here’s a visually appealing introduction, styled like the image you shared:
