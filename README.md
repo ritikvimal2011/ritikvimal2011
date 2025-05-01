@@ -76,11 +76,21 @@
 
 ---
 
-### 👨‍💼 About Me & 🤝 Open to Collaborations
+Here’s a visually appealing introduction, styled like the image you shared:
 
-🎤 Available for **Guest Sessions / Webinars**  
-🤝 Open to **Project Collaborations / YouTube Collabs**  
-💼 Offering **DevOps Consulting / Mentorship**  
-📧 Let’s chat: [office@devopsshack.com](mailto:office@devopsshack.com)
+---
 
-> *"Helping people crack DevOps with real-world knowledge. Let’s build and automate the future, one pipeline at a time!"*
+👨‍💻 **About Me**  
+
+🤝 **Open to Project Collaborations / Coding Challenges** – Love to engage in hands-on learning and problem-solving.  
+
+💻 **Offering Web Development & Algorithmic Consulting** – Helping refine technical skills, optimize databases, and enhance coding proficiency.  
+
+📩 **Let’s connect:** *ritikvimal2011@gmail.com*  
+
+---
+
+
+
+
+> 
