@@ -2,7 +2,7 @@
 
 
 
-<h3 align="center">A passionate Data science and Machine Learning. I am a Student of Computer science and Engineening.In my free time I inhence my problem solving skill</h3>
+<h3 align="center">A passionate Data science and Machine Learning. I am a Student of Computer science and Engineening.In my free time I enhance my problem solving skill</h3>
 
 <p align="center">
   <a href="https://github.com/ritikvimal2011">
