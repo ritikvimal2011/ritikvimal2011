@@ -23,7 +23,7 @@
 </p>-->
 
 - 👨‍💻 All of my projects are available at [https://github.com/ritikvimal2011/](https://github.com/ritikvimal2011/)  
-- 💬 Ask me about **Software Engineering**  
+- 💬 Ask me about **Machine Learning**  
 - 📫 How to reach me **ritikvimal2011@gmail.com**
 
 ---
