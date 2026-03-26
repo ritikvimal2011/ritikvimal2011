@@ -45,8 +45,10 @@
 
 ### 💻 Languages
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge\&logo=c\&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/sql-%2300758F.svg?style=for-the-badge\&logo=mysql\&logoColor=white)
 
 ### 🌐 Web
@@ -58,6 +60,7 @@
 ### ⚙️ Frameworks
 
 ![Flask](https://img.shields.io/badge/flask-%23000000.svg?style=for-the-badge\&logo=flask\&logoColor=white)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 
 ### 🤖 AI / Data
 
@@ -87,13 +90,23 @@
 
 ## 🚀 Featured Projects
 
-* 🤖 AI Prediction App (Flask + ML)
+* 🤖 AI Prediction App (Flask + ML)/Object Detection In Space
 * 📊 Data Dashboard
 * 🌐 Portfolio Website
 
 ---
 
 👨‍💻 **About Me**  
+
+
+## ⚡ About Me
+
+* 🎓 B.Tech Student
+* 🤖 AI & Machine Learning
+* 💻 Building Flask + ML Projects
+* 📊 Love Data Visualization
+
+---
 
 🤝 **Open to Project Collaborations / Coding Challenges** – Love to engage in hands-on learning and problem-solving.  
 
