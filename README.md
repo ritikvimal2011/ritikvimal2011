@@ -50,7 +50,7 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ### 🔥 GitHub Contribution Streak
 
-![GitHub Streak Badge](https://img.shields.io/badge/GitHub%20Streak-Active-brightgreen?logo=github&style=for-the-badge)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME)
 
 ---
 
