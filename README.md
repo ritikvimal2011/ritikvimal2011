@@ -69,19 +69,19 @@
 
 ## 📊 GitHub Stats
 
-![Ritik's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=radical)
+![Ritik's GitHub stats](https://github-readme-stats.vercel.app/api?username=ritikvimal2011\&show_icons=true\&theme=radical)
 
 ---
 
 ## 🔥 Streak Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME\&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=ritikvimal2011\&theme=radical)
 
 ---
 
 ## 📌 Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ritikvimal2011\&layout=compact\&theme=radical)
 
 ---
 
