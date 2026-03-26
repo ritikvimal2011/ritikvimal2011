@@ -5,9 +5,7 @@
 <h3 align="center">A passionate Data science and Machine Learning. I am a Student of Computer science and Engineening.In my free time I enhance my problem solving skill</h3>
 
 <p align="center">
-  <a href="https://github.com/ritikvimal2011">
-    <img src="https://img.shields.io/github/followers/jaiswaladi246?labeljaiswaladi246?label=Follow&style=social" />
-  </a>
+
   <a href="https://www.coursera.org/user/4697735f1ff2c07e1c0a0e107551dd0f">
     <img src="Coursera-Education-Logo.jpg" height="50" width="60" />
   </a>
