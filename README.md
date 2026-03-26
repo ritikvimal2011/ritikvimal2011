@@ -1,20 +1,46 @@
-# 👋 Hi, I'm Ritik Vimal
+<h1 align="center">Hey Everyone 👋, I'm RITIK VIMAL</h1>
 
-🚀 **AI Developer | Data Analyst | Flask Developer**
+
+
+<h3 align="center">A passionate Data science and Machine Learning. I am a Student of Computer science and Engineening.In my free time I enhance my problem solving skill</h3>
+
+<p align='center'>🚀 **AI Developer | Data Analyst | Flask Developer**</p>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=00F7FF&center=true&vCenter=true&width=600&lines=AI+Developer;Data+Analyst;Flask+Developer;Machine+Learning+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=00F7FF&center=true&vCenter=true&width=600&lines=AI+Developer;Data+Analyst;Machine+Learning+Enthusiast;Flask+Developer" />
 </p>
+
+
+
+<p align="center">
+
+  <a href="https://www.coursera.org/user/4697735f1ff2c07e1c0a0e107551dd0f">
+    <img src="Coursera-Education-Logo.jpg" height="50" width="60" />
+  </a>
+  <a href="https://www.linkedin.com/in/ritik-vimal-6068a125a">
+    <img src="https://img.shields.io/badge/LinkedIn-RITIK%20VIMAL-blue?logo=linkedin&style=flat-square" />
+  </a>
+</p>
+
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
+<!--<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=jaiswaladi246&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>-->
+
+- 👨‍💻 All of my projects are available at [https://github.com/ritikvimal2011/](https://github.com/ritikvimal2011/)  
+- 💬 Ask me about **Machine Learning**  
+- 📫 How to reach me **ritikvimal2011@gmail.com**
+
 ---
 
-## ⚡ About Me
-
-* 🎓 B.Tech Student
-* 🤖 Passionate about AI & Machine Learning
-* 💻 Building Flask + ML Projects
-* 📊 Love Data Visualization
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/ritik-vimal-6068a125a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+  <a href="https://x.com/RitikVimal6?t=eWZviEWZcaahyB5pzWikSQ&s=09" target="blank"><img align="center" src="twitter.png" alt="Instagram" height="60" width="60" /></a>
+  <a href="https://www.coursera.org/user/4697735f1ff2c07e1c0a0e107551dd0f" target="blank"><img align="center" src="Coursera-Education-Logo.jpg" alt="Coursera" height="90" width="100" /></a>
+</p>
 
 ---
-
 ## 🧠 Tech Stack
 
 ### 💻 Languages
@@ -67,7 +93,17 @@
 
 ---
 
-## 📫 Connect with Me
+👨‍💻 **About Me**  
 
-* 💼 LinkedIn: (Add your link)
-* 🐙 GitHub: https://github.com/YOUR_USERNAME
+🤝 **Open to Project Collaborations / Coding Challenges** – Love to engage in hands-on learning and problem-solving.  
+
+💻 **Offering Web Development & Algorithmic Consulting** – Helping refine technical skills, optimize databases, and enhance coding proficiency.  
+
+📩 **Let’s connect:** *ritikvimal2011@gmail.com*  
+
+---
+
+
+
+
+> 
