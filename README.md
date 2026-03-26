@@ -47,18 +47,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=ritikvimal2011&icon=2&color=white)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-### 🔥 GitHub Contribution Streak
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME)
-
----
-
----
-
-Here’s a visually appealing introduction, styled like the image you shared:
-
----
 
 👨‍💻 **About Me**  
 
