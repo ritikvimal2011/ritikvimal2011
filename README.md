@@ -96,8 +96,6 @@
 
 ---
 
-👨‍💻 **About Me**  
-
 
 ## ⚡ About Me
 
@@ -106,8 +104,7 @@
 * 💻 Building Flask + ML Projects
 * 📊 Love Data Visualization
 
----
-
+  
 🤝 **Open to Project Collaborations / Coding Challenges** – Love to engage in hands-on learning and problem-solving.  
 
 💻 **Offering Web Development & Algorithmic Consulting** – Helping refine technical skills, optimize databases, and enhance coding proficiency.  
