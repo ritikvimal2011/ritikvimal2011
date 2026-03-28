@@ -95,7 +95,7 @@
 
 * 🤖 AI Prediction App (Flask + ML)/Object Detection In Space
 * 📊 Data Dashboard
-* 🌐 Portfolio Website
+* 🌐 Django Based Web App
 
 ---
 
