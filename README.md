@@ -4,7 +4,7 @@
 
 <h3 align="center">A passionate Data science and Machine Learning. I am a Student of Computer science and Engineening.In my free time I enhance my problem solving skill</h3>
 
-<p align='center'>🚀 **AI Developer | Data Analyst | Flask Developer**</p>
+<p align='center'>🚀 **AI Developer | Data Analyst | Flask/Django Developer**</p>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=28&color=00F7FF&center=true&vCenter=true&width=600&lines=AI+Developer;Data+Analyst;Machine+Learning+Enthusiast;Flask+Developer" />
 </p>
@@ -72,7 +72,10 @@
 
 ## 📊 GitHub Stats
 
-![Ritik's GitHub stats](https://github-readme-stats.vercel.app/api?username=ritikvimal2011\&show_icons=true\&theme=radical)
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritikvimal2011&layout=compact&theme=radical" />
+</p>
+
 
 ---
 
